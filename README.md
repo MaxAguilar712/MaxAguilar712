@@ -23,7 +23,6 @@ Where to find me:
 &nbsp; 
 
 
-
 **TECH STACK**
 
 - FRONT END DEVELOPMENT 
